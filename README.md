@@ -1,4 +1,7 @@
-# 🎭 [Playwright](https://playwright.dev) for Python 
+> # This repo has moved to [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright)
+
+
+## 🎭 [Playwright](https://playwright.dev) for Python 
 
 [![PyPI version](https://badge.fury.io/py/undetected-playwright-patch.svg)](https://badge.fury.io/py/undetected-playwright-patch)
 
